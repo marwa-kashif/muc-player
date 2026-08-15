@@ -2,7 +2,7 @@ const songs = [
     {
         title: "Dreams",
         artist: "Music Artist",
-        src:src: "song1.mp3"
+        src: "song1.mp3"
     },
     {
         title: "Summer Vibes",
